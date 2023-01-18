@@ -17,7 +17,7 @@ Para isso, basta compilar e executar o código e inserir o tipo de jogo desejado
 + GNU Make
 
 ### Modo de uso:
-+ Clone o repositório com o comando *git clone https://github.com/GuilhermeSantos99/lotoSortC*
++ Clone o repositório com o comando *git clone https://github.com/OwlGuilherme/lotoSortC*
 + Na pasta do clone, execute o comando *make* para compilar o código.
 + Execute o comando *./lotoSort* para executar o arquivo.
 + Insira o tipo de jogo desejado e seram mostrados os números gerados.
